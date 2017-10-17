@@ -1,0 +1,42 @@
+.header{
+
+    border:1px solid black;
+
+	width:800px;
+
+	height:100px;
+
+	background-color:grey;
+
+}
+
+.search .ii{
+
+	margin-left:200px;
+
+	width:200px;
+	margin-top:-10px;
+	
+
+}
+
+.links a{
+
+	margin-left:10px;
+   text-decoration:none;
+    color:white;
+	display:inline;
+	float:right;
+	margin-top:20px;
+
+	
+
+}
+
+.known{
+
+	margin-top:20px;
+	color:white;
+     margin-left:30px;
+
+}

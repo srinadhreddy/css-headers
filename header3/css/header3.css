@@ -1,0 +1,17 @@
+.header{
+	padding-left:15px;
+	cursor:pointer;
+	
+}
+.img{
+	color:red;
+}
+
+.button {
+background-color:red;
+padding-bottom:15px;
+padding-top:15px;
+text-align:center;
+cursor:pointer;
+margin-left:10px;
+}

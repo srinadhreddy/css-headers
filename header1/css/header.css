@@ -1,0 +1,13 @@
+.header{
+     border:1px solid black;
+	 width:600px;
+	 height:200px;
+	 background-color:grey;
+}
+.header1{
+     border:1px solid black;
+	 width:600px;
+	 height:70px;
+	 background-color:blue;
+	 text-align:center;
+}

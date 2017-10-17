@@ -1,0 +1,26 @@
+ <!DOCTYPE html>
+
+<html>
+
+<head>
+
+<title>headers</title>
+
+<link rel="stylesheet" type="text/css" href="css/header7.css">
+
+</head>
+
+<body>
+
+<div>
+
+<div class="header">
+<div class="buttons">
+<a href="#">home |</a>
+<a href="#">hoe to |</a>
+<a href="#">icons |</a>
+<a href="#">web |</a>
+<a href="#">tools |</a>
+</div>
+</body>
+</html>

@@ -1,0 +1,23 @@
+.header{
+
+    border:1px solid black;
+
+	width:800px;
+
+	height:50px;
+
+	background-color:black;
+      border-radius:0 0 15px 15px;
+
+}
+.links a{
+	
+	margin-left:50px;
+	text-decoration:none;
+	font-size:27px;
+        margin-top:40px;
+        border-top:7px dashed red;
+        color:white;
+         line-height:-45px;
+ }
+	

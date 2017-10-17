@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>headers</title>
+<link rel="stylesheet" type="text/css" href="css/header3.css">
+</head>
+<body>
+<div>
+<div class="header">
+<img src="/C:/Users/win7/Desktop/rocket.jpeg" alt="rocket" width="40px" height="40px">rocket
+<button class="button">home</button>
+<button class="button">about</button>
+<button class="button">services</button>
+<button class="button">pricing</button>
+<button class="button">blog</button>
+<button class="button">contact</button>
+</div>
+</body>
+</html>

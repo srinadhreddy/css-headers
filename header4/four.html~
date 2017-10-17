@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>headers</title>
+<link rel="stylesheet" type="text/css" href="css/header4.css">
+</head>
+<body>
+<div>
+<div class="header">
+<div class="links"><a href="#">link1</a>
+                   <a href="#">link2</a>
+	           <a href="#">link3</a>
+		   <a href="#">link4</a>
+		   <a href="#">link5</a>
+		   <a href="#">link6</a>
+
+<div class="brand">brand
+<div class="search"><input type="text" class="ii" name="firstname" placeholder="search for prodct and more" abled>
+</div>
+</body>
+</html>

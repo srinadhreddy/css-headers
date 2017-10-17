@@ -1,0 +1,23 @@
+.header{
+     border:1px solid black;
+	 width:450px;
+	 height:100px;
+	 background-color:grey;
+}
+.home{
+	margin-left:50px;
+	 margin-top:40px;
+	 font-size:25px;
+}
+.works{
+	 margin-left:120px;
+	  margin-top:-30px;
+	  font-size:25px;
+}
+.others{
+	  margin-left:150px;
+	  margin-top:-30px;
+	  font-size:25px;
+}
+	 
+	 

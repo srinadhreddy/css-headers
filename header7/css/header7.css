@@ -1,0 +1,17 @@
+.header{
+        border:1px solid black;
+        width:700px;
+		height:40px;
+		background-color:blue;
+  }
+  .buttons a{
+	       margin-left:60px;
+		 font-size:20px;
+		display:inline;
+                  cursor:pointer;
+		   color:white;
+		   text-decoration:none;
+                   line-height:30px;
+                  
+		 
+  }
